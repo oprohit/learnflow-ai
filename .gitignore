@@ -10,4 +10,5 @@ android/app/build
 android/.gradle
 apis.md
 apis.local.md
+.vercel
 
